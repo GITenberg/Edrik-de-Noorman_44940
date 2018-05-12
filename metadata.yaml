@@ -1,0 +1,35 @@
+_repo: Edrik-de-Noorman_44940
+_version: 0.1.0
+alternative_title: Edric the Norseman. Dutch
+contributor:
+  translator:
+    agent_name: Reule, A. S.
+    gutenberg_agent_id: '42998'
+    url: http://www.gutenberg.org/2009/agents/42998
+covers:
+- cover_type: archival
+  image_path: 44940-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hodgetts, J. Frederick (James Frederick)
+    aliases:
+    - Hodgetts, James Frederick
+    - Hodgetts, J. F.
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '42997'
+    url: http://www.gutenberg.org/2009/agents/42997
+description: ''
+gutenberg_issued: '2014-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44940'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vikings -- Juvenile fiction'
+- !lcc 'PZ'
+title: Edrik, de Noorman
+url: http://www.gutenberg.org/ebooks/44940
